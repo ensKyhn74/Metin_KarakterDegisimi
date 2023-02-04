@@ -45,7 +45,7 @@ int main()
   
   puts(input);
   
-  printf("dizgide %d adet %c karakteri %c ile degistirildi.",KarakterSayisi,DegisecekKarakter,DegistirilecekKarakter);
+  printf("metinde %d adet %c karakteri %c ile degistirildi.",KarakterSayisi,DegisecekKarakter,DegistirilecekKarakter);
  
   return 0;
   
